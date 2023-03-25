@@ -23,4 +23,4 @@ As a matter of fact, Gilgamesh did some research of his own and found out that t
 are items that will help him gain a lot of money, so when he travels to different merchants 
 around different worlds, these are the items he will pay attention to.
 
-Final Grade 52/100
+## Final Grade 52/100
